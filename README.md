@@ -1,3 +1,3 @@
-# Godfrey1000.github.io
+# Beta-Learn
 
-My portfolio project
+A responsive and sleek web project built with HTML and CSS
